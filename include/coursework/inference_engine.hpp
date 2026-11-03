@@ -9,10 +9,8 @@ namespace coursework {
 
 class InferenceEngine {
 public:
-    ml::Tensor<float> run(
-        const std::shared_ptr<ml::Model>& model,
-        const ml::Tensor<float>& input
-    ) const;
+    ml::Tensor<float> run(const std::shared_ptr<ml::Model>& model,
+                          const ml::Tensor<float>& input) const;
 };
 
-}
+}  // namespace coursework
