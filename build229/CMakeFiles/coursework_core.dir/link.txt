@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcoursework_core.a CMakeFiles/coursework_core.dir/src/model_manager.cpp.o CMakeFiles/coursework_core.dir/src/inference_engine.cpp.o CMakeFiles/coursework_core.dir/src/prediction_service.cpp.o CMakeFiles/coursework_core.dir/src/request_handler.cpp.o
-/usr/bin/ranlib libcoursework_core.a
