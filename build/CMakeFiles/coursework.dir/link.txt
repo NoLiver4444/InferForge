@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/coursework.dir/link.d CMakeFiles/coursework.dir/src/main.cpp.o -o coursework  libcoursework_core.a ml/libml.a

@@ -1,0 +1,219 @@
+Start testing: Nov 03 21:26 MSK
+----------------------------------------------------------
+1/8 Testing: ModelManagerTest.AddAndGetModel
+1/8 Test: ModelManagerTest.AddAndGetModel
+Command: "/home/sosalchupu/Рабочий стол/coursework/build/coursework_tests" "--gtest_filter=ModelManagerTest.AddAndGetModel" "--gtest_also_run_disabled_tests"
+Directory: /home/sosalchupu/Рабочий стол/coursework/build
+"ModelManagerTest.AddAndGetModel" start time: Nov 03 21:26 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/sosalchupu/Рабочий стол/coursework/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ModelManagerTest.AddAndGetModel
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ModelManagerTest
+[ RUN      ] ModelManagerTest.AddAndGetModel
+[       OK ] ModelManagerTest.AddAndGetModel (0 ms)
+[----------] 1 test from ModelManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ModelManagerTest.AddAndGetModel" end time: Nov 03 21:26 MSK
+"ModelManagerTest.AddAndGetModel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/8 Testing: ModelManagerTest.AddDuplicateIdThrows
+2/8 Test: ModelManagerTest.AddDuplicateIdThrows
+Command: "/home/sosalchupu/Рабочий стол/coursework/build/coursework_tests" "--gtest_filter=ModelManagerTest.AddDuplicateIdThrows" "--gtest_also_run_disabled_tests"
+Directory: /home/sosalchupu/Рабочий стол/coursework/build
+"ModelManagerTest.AddDuplicateIdThrows" start time: Nov 03 21:26 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/sosalchupu/Рабочий стол/coursework/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ModelManagerTest.AddDuplicateIdThrows
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ModelManagerTest
+[ RUN      ] ModelManagerTest.AddDuplicateIdThrows
+[       OK ] ModelManagerTest.AddDuplicateIdThrows (0 ms)
+[----------] 1 test from ModelManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ModelManagerTest.AddDuplicateIdThrows" end time: Nov 03 21:26 MSK
+"ModelManagerTest.AddDuplicateIdThrows" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/8 Testing: ModelManagerTest.AddNullModelThrows
+3/8 Test: ModelManagerTest.AddNullModelThrows
+Command: "/home/sosalchupu/Рабочий стол/coursework/build/coursework_tests" "--gtest_filter=ModelManagerTest.AddNullModelThrows" "--gtest_also_run_disabled_tests"
+Directory: /home/sosalchupu/Рабочий стол/coursework/build
+"ModelManagerTest.AddNullModelThrows" start time: Nov 03 21:26 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/sosalchupu/Рабочий стол/coursework/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ModelManagerTest.AddNullModelThrows
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ModelManagerTest
+[ RUN      ] ModelManagerTest.AddNullModelThrows
+[       OK ] ModelManagerTest.AddNullModelThrows (0 ms)
+[----------] 1 test from ModelManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ModelManagerTest.AddNullModelThrows" end time: Nov 03 21:26 MSK
+"ModelManagerTest.AddNullModelThrows" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/8 Testing: ModelManagerTest.GetMissingModelThrows
+4/8 Test: ModelManagerTest.GetMissingModelThrows
+Command: "/home/sosalchupu/Рабочий стол/coursework/build/coursework_tests" "--gtest_filter=ModelManagerTest.GetMissingModelThrows" "--gtest_also_run_disabled_tests"
+Directory: /home/sosalchupu/Рабочий стол/coursework/build
+"ModelManagerTest.GetMissingModelThrows" start time: Nov 03 21:26 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/sosalchupu/Рабочий стол/coursework/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ModelManagerTest.GetMissingModelThrows
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ModelManagerTest
+[ RUN      ] ModelManagerTest.GetMissingModelThrows
+[       OK ] ModelManagerTest.GetMissingModelThrows (0 ms)
+[----------] 1 test from ModelManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ModelManagerTest.GetMissingModelThrows" end time: Nov 03 21:26 MSK
+"ModelManagerTest.GetMissingModelThrows" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/8 Testing: ModelManagerTest.RemoveModel
+5/8 Test: ModelManagerTest.RemoveModel
+Command: "/home/sosalchupu/Рабочий стол/coursework/build/coursework_tests" "--gtest_filter=ModelManagerTest.RemoveModel" "--gtest_also_run_disabled_tests"
+Directory: /home/sosalchupu/Рабочий стол/coursework/build
+"ModelManagerTest.RemoveModel" start time: Nov 03 21:26 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/sosalchupu/Рабочий стол/coursework/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ModelManagerTest.RemoveModel
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ModelManagerTest
+[ RUN      ] ModelManagerTest.RemoveModel
+[       OK ] ModelManagerTest.RemoveModel (0 ms)
+[----------] 1 test from ModelManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ModelManagerTest.RemoveModel" end time: Nov 03 21:26 MSK
+"ModelManagerTest.RemoveModel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/8 Testing: ModelManagerTest.RemoveMissingModelThrows
+6/8 Test: ModelManagerTest.RemoveMissingModelThrows
+Command: "/home/sosalchupu/Рабочий стол/coursework/build/coursework_tests" "--gtest_filter=ModelManagerTest.RemoveMissingModelThrows" "--gtest_also_run_disabled_tests"
+Directory: /home/sosalchupu/Рабочий стол/coursework/build
+"ModelManagerTest.RemoveMissingModelThrows" start time: Nov 03 21:26 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/sosalchupu/Рабочий стол/coursework/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ModelManagerTest.RemoveMissingModelThrows
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ModelManagerTest
+[ RUN      ] ModelManagerTest.RemoveMissingModelThrows
+[       OK ] ModelManagerTest.RemoveMissingModelThrows (0 ms)
+[----------] 1 test from ModelManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ModelManagerTest.RemoveMissingModelThrows" end time: Nov 03 21:26 MSK
+"ModelManagerTest.RemoveMissingModelThrows" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/8 Testing: ModelManagerTest.ContainsSizeAndEmpty
+7/8 Test: ModelManagerTest.ContainsSizeAndEmpty
+Command: "/home/sosalchupu/Рабочий стол/coursework/build/coursework_tests" "--gtest_filter=ModelManagerTest.ContainsSizeAndEmpty" "--gtest_also_run_disabled_tests"
+Directory: /home/sosalchupu/Рабочий стол/coursework/build
+"ModelManagerTest.ContainsSizeAndEmpty" start time: Nov 03 21:26 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/sosalchupu/Рабочий стол/coursework/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ModelManagerTest.ContainsSizeAndEmpty
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ModelManagerTest
+[ RUN      ] ModelManagerTest.ContainsSizeAndEmpty
+[       OK ] ModelManagerTest.ContainsSizeAndEmpty (0 ms)
+[----------] 1 test from ModelManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ModelManagerTest.ContainsSizeAndEmpty" end time: Nov 03 21:26 MSK
+"ModelManagerTest.ContainsSizeAndEmpty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/8 Testing: ModelManagerTest.ModelRemainsAliveAfterRemoveIfSharedPointerExists
+8/8 Test: ModelManagerTest.ModelRemainsAliveAfterRemoveIfSharedPointerExists
+Command: "/home/sosalchupu/Рабочий стол/coursework/build/coursework_tests" "--gtest_filter=ModelManagerTest.ModelRemainsAliveAfterRemoveIfSharedPointerExists" "--gtest_also_run_disabled_tests"
+Directory: /home/sosalchupu/Рабочий стол/coursework/build
+"ModelManagerTest.ModelRemainsAliveAfterRemoveIfSharedPointerExists" start time: Nov 03 21:26 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/sosalchupu/Рабочий стол/coursework/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ModelManagerTest.ModelRemainsAliveAfterRemoveIfSharedPointerExists
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ModelManagerTest
+[ RUN      ] ModelManagerTest.ModelRemainsAliveAfterRemoveIfSharedPointerExists
+[       OK ] ModelManagerTest.ModelRemainsAliveAfterRemoveIfSharedPointerExists (0 ms)
+[----------] 1 test from ModelManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ModelManagerTest.ModelRemainsAliveAfterRemoveIfSharedPointerExists" end time: Nov 03 21:26 MSK
+"ModelManagerTest.ModelRemainsAliveAfterRemoveIfSharedPointerExists" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 03 21:26 MSK

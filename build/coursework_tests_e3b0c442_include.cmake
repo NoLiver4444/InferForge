@@ -1,0 +1,5 @@
+if(EXISTS "/home/sosalchupu/Рабочий стол/coursework/build/coursework_tests_e3b0c442_tests.cmake")
+  include("/home/sosalchupu/Рабочий стол/coursework/build/coursework_tests_e3b0c442_tests.cmake")
+else()
+  add_test(coursework_tests_NOT_BUILT coursework_tests_NOT_BUILT)
+endif()

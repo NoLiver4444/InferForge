@@ -1,0 +1,3 @@
+/home/sosalchupu/Рабочий стол/coursework/build229/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/home/sosalchupu/Рабочий стол/coursework/build229/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/home/sosalchupu/Рабочий стол/coursework/build229/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

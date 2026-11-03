@@ -1,0 +1,9 @@
+ModelManagerTest.AddAndGetModel 1 0.00169141
+ModelManagerTest.AddDuplicateIdThrows 1 0.00135298
+ModelManagerTest.AddNullModelThrows 1 0.00139885
+ModelManagerTest.GetMissingModelThrows 1 0.00147903
+ModelManagerTest.RemoveModel 1 0.00136722
+ModelManagerTest.RemoveMissingModelThrows 1 0.00138175
+ModelManagerTest.ContainsSizeAndEmpty 1 0.00151348
+ModelManagerTest.ModelRemainsAliveAfterRemoveIfSharedPointerExists 1 0.00159848
+---
