@@ -28,6 +28,20 @@ add_subdirectory(
 )
 
 # ============================================================
+# Dependencies
+# ============================================================
+
+include(FetchContent)
+
+FetchContent_Declare(
+    nlohmann_json
+    URL https://github.com/nlohmann/json/releases/download/v3.11.3/json.tar.xz
+    DOWNLOAD_EXTRACT_TIMESTAMP TRUE
+)
+
+FetchContent_MakeAvailable(nlohmann_json)
+
+# ============================================================
 # Coursework core
 # ============================================================
 
@@ -36,6 +50,7 @@ add_library(coursework_core STATIC
     src/inference_engine.cpp
     src/prediction_service.cpp
     src/request_handler.cpp
+    src/json_converter.cpp
 )
 
 target_include_directories(coursework_core
@@ -46,6 +61,7 @@ target_include_directories(coursework_core
 target_link_libraries(coursework_core
     PUBLIC
         ml
+        nlohmann_json::nlohmann_json
 )
 
 target_compile_features(coursework_core
@@ -74,8 +90,6 @@ if(COURSEWORK_ENABLE_TESTS)
     include(CTest)
 
     if(BUILD_TESTING)
-        include(FetchContent)
-
         FetchContent_Declare(
             googletest
             URL
